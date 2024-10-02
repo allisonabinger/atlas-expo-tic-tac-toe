@@ -2,6 +2,8 @@
 
 This template provides a minimal setup to get React native working with Expo.
 
+![screenshot](Screenshot.png)
+
 ## Project Requirements
 
 - Create a two player tic-tac-toe game
