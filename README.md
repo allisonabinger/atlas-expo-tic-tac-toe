@@ -2,7 +2,7 @@
 
 This template provides a minimal setup to get React native working with Expo.
 
-<img src="Screenshot.png" width="100">
+<img src="Screenshot.png" width="300">
 
 ## Project Requirements
 
