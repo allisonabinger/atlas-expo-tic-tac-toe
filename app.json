@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "atlas-mobile-tic-tac-toe",
-    "slug": "atlas-mobile-tic-tac-toe",
+    "name": "atlas-expo-tic-tac-toe",
+    "slug": "atlas-expo-tic-tac-toe",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
