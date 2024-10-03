@@ -14,6 +14,7 @@ export function useGameState() {
     if (square[index]) {
       return;
     }
+    console.log('Square Pressed');
     const newSquare = [...square];
     newSquare[index] = currentPlayer;
     setSquare(newSquare);
